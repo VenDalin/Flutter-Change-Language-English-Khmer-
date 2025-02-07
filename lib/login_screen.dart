@@ -110,7 +110,7 @@ class LoginScreen extends StatelessWidget {
                 Image.asset(
                   isDarkMode
                       ? 'assets/flags/km.png'
-                      : 'assets/flags/us.png', // Choose logo based on dark mode
+                      : 'assets/flags/km.png', // Choose logo based on dark mode
                   height: 150, // Adjust the size as needed
                 ),
                 SizedBox(height: 40),

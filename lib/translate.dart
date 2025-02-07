@@ -38,6 +38,7 @@ class TranslationsEnToKh extends Translations {
           "Error": "កំហុស",
           "Invalid email or password.": "អ៊ីមែលឬពាក្យសម្ងាត់មិនត្រឹមត្រូវទេ។",
           "Registration successful!" : "ការចុះបញ្ជីបានជោគជ័យ!",
+          "pleaseEnterFullName": "សូមបញ្ចូលឈ្មោះរបស់អ្នក",
         },
       };
 }
